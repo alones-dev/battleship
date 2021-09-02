@@ -1,8 +1,8 @@
 shipping = {  # Dict of boats
-    "avion"            : 6,     # key = "Boat name" : val = "Case amount"
-    "croiseur"         : 4,
-    "contre-torpilleur": 3,
-    "torpilleur"       : 2
+    "plane"            : 6,     # key = "Boat name" : val = "Case amount"
+    "cruiser"         : 4,
+    "destroyer": 3,
+    "torpedo"       : 2
 }
 
 grid = {  # Dict of boats positions
