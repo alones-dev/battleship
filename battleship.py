@@ -54,3 +54,6 @@ def battle(dict, ch):
 
     return "Failed"        # Return "Failed" if the informations are different and no boats are on the case
 
+
+#     /\ | _ ._  _  _
+#    /--\|(_)| |(/__>
